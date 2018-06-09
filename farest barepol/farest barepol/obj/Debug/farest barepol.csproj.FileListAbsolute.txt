@@ -1,0 +1,6 @@
+A:\farest barepol\farest barepol\bin\Debug\farest barepol.exe.config
+A:\farest barepol\farest barepol\bin\Debug\farest barepol.exe
+A:\farest barepol\farest barepol\bin\Debug\farest barepol.pdb
+A:\farest barepol\farest barepol\obj\Debug\farest barepol.csprojResolveAssemblyReference.cache
+A:\farest barepol\farest barepol\obj\Debug\farest barepol.exe
+A:\farest barepol\farest barepol\obj\Debug\farest barepol.pdb
